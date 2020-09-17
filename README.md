@@ -12,7 +12,7 @@
 ### Статистика 📊
 
 <img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TFlashgamer&show_icons=true&hide_border=true&theme=dark" />
-[<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFlashgamer&layout=compact&theme=dark" />](https://github.com/TFlashgamer/github-readme-stats)
+[<img align="left" alt="/TSlash's Github Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFlashgamer&layout=compact&theme=dark" />](https://github.com/TFlashgamer/github-readme-stats)
 
 
 ### Свяжитесь со мной:
@@ -21,6 +21,8 @@
 [<img align="left" alt="/TSlash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/tslash_)
 
 <br/>
+<br/>
+
 
 ### Языки и инструменты:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
@@ -34,5 +36,7 @@
 
 <br/>
 <br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-stable&theme=dark)](https://github.com/TFlashgamer/Oni-stable)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-beta&theme=dark)](https://github.com/TFlashgamer/Oni-beta)
+
+
+[<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-stable&theme=dark" />](https://github.com/TFlashgamer/Oni-stable)
+[<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-beta&theme=dark" />](https://github.com/TFlashgamer/Oni-beta)
