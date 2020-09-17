@@ -13,14 +13,16 @@
 <img align="left" alt="/TSlash's Github Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFlashgamer&layout=compact&theme=dark" />
 
 
-
+<br/>
+<br/>
 
 
 ### Играет Spotify 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="/TSlash Spotify Играет" width="350" />](https://open.spotify.com/user/bzdps6frgn1j8n20gz3wmd3jk)
 
-
+<br/>
+<br/>
 
 
 
@@ -53,5 +55,4 @@
 
 
 
-[<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-stable&theme=dark" />](https://github.com/TFlashgamer/Oni-stable)
-[<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-beta&theme=dark" />](https://github.com/TFlashgamer/Oni-beta)
+[<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-stable&theme=dark" />](https://github.com/TFlashgamer/Oni-stable) [<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-beta&theme=dark" />](https://github.com/TFlashgamer/Oni-beta)
