@@ -16,8 +16,8 @@
 
 ### Свяжитесь со мной:
 
-[<img align="left" alt="/TSlash#2499" width="22px" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" />][https://discord.gg/yj9j87p]
-[<img align="left" alt="/TSlash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/tslash_]
+[<img align="left" alt="/TSlash#2499" width="22px" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" />](https://discord.gg/yj9j87p)
+[<img align="left" alt="/TSlash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/tslash_)
 
 <br/>
 
