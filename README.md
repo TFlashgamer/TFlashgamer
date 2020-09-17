@@ -15,7 +15,8 @@
 
 <br/>
 <br/>
-
+<br/>
+<br/>
 
 ### Играет Spotify 🎧
 
@@ -55,4 +56,5 @@
 
 
 
-[<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-stable&theme=dark" />](https://github.com/TFlashgamer/Oni-stable) [<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-beta&theme=dark" />](https://github.com/TFlashgamer/Oni-beta)
+[<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-stable&theme=dark" />](https://github.com/TFlashgamer/Oni-stable) 
+[<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-beta&theme=dark" />](https://github.com/TFlashgamer/Oni-beta)
