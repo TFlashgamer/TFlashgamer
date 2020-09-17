@@ -11,8 +11,8 @@
 
 ### Статистика 📊
 
-  <img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TFlashgamer&show_icons=true&hide_border=true&theme=dark" />
-  [<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFlashgamer&layout=compact&theme=dark" />](https://github.com/TFlashgamer/github-readme-stats
+<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TFlashgamer&show_icons=true&hide_border=true&theme=dark" />
+[<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFlashgamer&layout=compact&theme=dark" />](https://github.com/TFlashgamer/github-readme-stats)
 
 
 ### Свяжитесь со мной:
