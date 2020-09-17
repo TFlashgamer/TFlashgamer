@@ -12,7 +12,8 @@
 ### Статистика 📊
 
   <img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TFlashgamer&show_icons=true&hide_border=true&theme=dark" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TFlashgamer&layout=compact)](https://github.com/TFlashgamer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TFlashgamer&layout=compact)](https://github.com/TFlashgamer
+/github-readme-stats)
 
 ### Свяжитесь со мной:
 
