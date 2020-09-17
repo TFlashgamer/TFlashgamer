@@ -1,4 +1,5 @@
 ### Привет, Я Тарас - aka [/TSlash](https://tflashgamer.github.io/) 👋
+<br/>
 
 ## Я студент интенсивно изучающий интересные мне языки программирования!
 
@@ -6,6 +7,7 @@
 - 🌱 Изучаю практически всё что попадается под руку )0
 
 
+<br/>
 
 ### Статистика 📊
 
@@ -13,6 +15,14 @@
 <img align="left" alt="/TSlash's Github Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFlashgamer&layout=compact&theme=dark" />
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
