@@ -5,14 +5,23 @@
 - 🍂 Сейчас я работаю над проектом [Oni🍂](https://tflashgamer.github.io/oni.html)
 - 🌱 Изучаю практически всё что попадается под руку )0
 
-### Играет Spotify 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="/TSlash Spotify Играет" width="350" />](https://open.spotify.com/user/bzdps6frgn1j8n20gz3wmd3jk)
 
 ### Статистика 📊
 
 <img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TFlashgamer&show_icons=true&hide_border=true&theme=dark" />
 <img align="left" alt="/TSlash's Github Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFlashgamer&layout=compact&theme=dark" />
+
+
+
+
+
+### Играет Spotify 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="/TSlash Spotify Играет" width="350" />](https://open.spotify.com/user/bzdps6frgn1j8n20gz3wmd3jk)
+
+
+
 
 
 ### Свяжитесь со мной:
@@ -22,6 +31,10 @@
 
 <br/>
 <br/>
+
+
+
+
 
 
 ### Языки и инструменты:
@@ -36,6 +49,8 @@
 
 <br/>
 <br/>
+
+
 
 
 [<img align="left" alt="/TSlash's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TFlashgamer&repo=Oni-stable&theme=dark" />](https://github.com/TFlashgamer/Oni-stable)
