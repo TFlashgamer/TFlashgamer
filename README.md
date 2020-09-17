@@ -37,8 +37,6 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="/TSlash Spotify Играет" width="350" />](https://open.spotify.com/user/bzdps6frgn1j8n20gz3wmd3jk)
 
 <br/>
-<br/>
-
 
 
 ### Свяжитесь со мной:
